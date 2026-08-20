@@ -4,7 +4,7 @@ Hi! I'm Haidara 👋 I love crafting beautiful front-end experiences, analyzing 
 
 
 # 💫 About Me:
-- 🚀 Electronics & Communications Engineer | Front-End Developer<br>- 💻 Building robust applications with Rust, React, and C++<br>- 📊 Data analysis enthusiast using Python & Excel<br>- ⚡ Embedded systems programmer (Arduino C)<br>- 🔌 Bridging hardware and software solutions<br>- 🌟 Passionate about creating innovative tech solutions that connect the physical and digital worlds. Always learning, always building! 🛠️✨<br>
+<br>- 🚀 Electronics & Communications Engineer | Front-End Developer<br>- 💻 Building robust applications with Rust, React, and C++<br>- 📊 Data analysis enthusiast using Python & Excel<br>- ⚡ Embedded systems programmer (Arduino C)<br>- 🔌 Bridging hardware and software solutions<br>- 🌟 Passionate about creating innovative tech solutions that connect the physical and digital worlds. Always learning, always building! 🛠️✨<br>
 
 
 ## 🌐 Socials:
